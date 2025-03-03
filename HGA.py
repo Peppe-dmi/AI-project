@@ -516,6 +516,6 @@ def process_instances(instances_folder, results_folder):
         print(final_info)
 
 if __name__ == "__main__":
-    instances_folder = "istances"
-    results_folder = "results_ultimi4"
+    instances_folder = "wfvs-istances-progetto-AI"
+    results_folder = "results"
     process_instances(instances_folder, results_folder)
