@@ -1,0 +1,27 @@
+2025-02-27 00:39:06,291 - INFO - Run 1/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 00:44:04,579 - INFO - Run 1: Best Fitness = 1902, Eval Count = 4918, Tempo totale = 298.29 sec, Iter/sec = 3.35
+2025-02-27 00:44:04,579 - INFO - Run 2/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 00:48:11,430 - INFO - Run 2: Best Fitness = 1936, Eval Count = 2702, Tempo totale = 246.85 sec, Iter/sec = 4.05
+2025-02-27 00:48:11,430 - INFO - Run 3/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 00:53:12,299 - INFO - Run 3: Best Fitness = 1914, Eval Count = 4859, Tempo totale = 300.87 sec, Iter/sec = 3.32
+2025-02-27 00:53:12,299 - INFO - Run 4/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 00:57:52,615 - INFO - Run 4: Best Fitness = 1918, Eval Count = 7561, Tempo totale = 280.32 sec, Iter/sec = 3.57
+2025-02-27 00:57:52,618 - INFO - Run 5/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:02:56,805 - INFO - Run 5: Best Fitness = 1914, Eval Count = 5548, Tempo totale = 304.19 sec, Iter/sec = 3.29
+2025-02-27 01:02:56,805 - INFO - Run 6/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:08:06,404 - INFO - Run 6: Best Fitness = 1910, Eval Count = 9448, Tempo totale = 309.60 sec, Iter/sec = 3.23
+2025-02-27 01:08:06,404 - INFO - Run 7/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:13:00,407 - INFO - Run 7: Best Fitness = 1900, Eval Count = 7302, Tempo totale = 294.00 sec, Iter/sec = 3.40
+2025-02-27 01:13:00,412 - INFO - Run 8/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:17:27,605 - INFO - Run 8: Best Fitness = 1922, Eval Count = 3494, Tempo totale = 267.19 sec, Iter/sec = 3.74
+2025-02-27 01:17:27,606 - INFO - Run 9/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:22:54,622 - INFO - Run 9: Best Fitness = 1910, Eval Count = 5066, Tempo totale = 327.02 sec, Iter/sec = 3.06
+2025-02-27 01:22:54,622 - INFO - Run 10/10 per istanza Rand_100_841_8739_10_50
+2025-02-27 01:28:55,368 - INFO - Run 10: Best Fitness = 1906, Eval Count = 7452, Tempo totale = 360.74 sec, Iter/sec = 2.77
+2025-02-27 01:28:55,451 - INFO - === Risultati Finali per Rand_100_841_8739_10_50 ===
+Best Solution: {1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 23, 26, 27, 29, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 50, 51, 52, 53, 57, 58, 59, 61, 63, 64, 65, 66, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81, 83, 84, 85, 87, 89, 90, 92, 95, 96, 99}
+Best Fitness: 1900
+Objective Function Evaluations (al best): 7302
+Tempo totale (sec): 294.00
+Iterazioni/sec: 3.40
+

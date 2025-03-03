@@ -1,0 +1,27 @@
+2025-02-27 03:08:06,832 - INFO - Run 1/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 03:21:22,633 - INFO - Run 1: Best Fitness = 5458, Eval Count = 14222, Tempo totale = 795.80 sec, Iter/sec = 1.26
+2025-02-27 03:21:22,633 - INFO - Run 2/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 03:34:12,020 - INFO - Run 2: Best Fitness = 5457, Eval Count = 8903, Tempo totale = 769.38 sec, Iter/sec = 1.30
+2025-02-27 03:34:12,047 - INFO - Run 3/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 03:48:11,301 - INFO - Run 3: Best Fitness = 5449, Eval Count = 14042, Tempo totale = 839.25 sec, Iter/sec = 1.19
+2025-02-27 03:48:11,313 - INFO - Run 4/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 04:03:13,132 - INFO - Run 4: Best Fitness = 5471, Eval Count = 8723, Tempo totale = 901.82 sec, Iter/sec = 1.11
+2025-02-27 04:03:13,135 - INFO - Run 5/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 04:17:32,794 - INFO - Run 5: Best Fitness = 5455, Eval Count = 13654, Tempo totale = 859.66 sec, Iter/sec = 1.16
+2025-02-27 04:17:32,794 - INFO - Run 6/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 04:31:11,936 - INFO - Run 6: Best Fitness = 5479, Eval Count = 10474, Tempo totale = 819.14 sec, Iter/sec = 1.22
+2025-02-27 04:31:11,937 - INFO - Run 7/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 04:43:26,527 - INFO - Run 7: Best Fitness = 5465, Eval Count = 5796, Tempo totale = 734.59 sec, Iter/sec = 1.36
+2025-02-27 04:43:26,527 - INFO - Run 8/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 04:57:17,093 - INFO - Run 8: Best Fitness = 5449, Eval Count = 12545, Tempo totale = 830.57 sec, Iter/sec = 1.20
+2025-02-27 04:57:17,113 - INFO - Run 9/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 05:11:32,277 - INFO - Run 9: Best Fitness = 5463, Eval Count = 7139, Tempo totale = 855.16 sec, Iter/sec = 1.17
+2025-02-27 05:11:32,278 - INFO - Run 10/10 per istanza Rand_200_3184_11283_10_75
+2025-02-27 05:25:55,420 - INFO - Run 10: Best Fitness = 5463, Eval Count = 5206, Tempo totale = 863.14 sec, Iter/sec = 1.16
+2025-02-27 05:25:55,483 - INFO - === Risultati Finali per Rand_200_3184_11283_10_75 ===
+Best Solution: {1, 2, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 63, 64, 65, 66, 67, 69, 71, 72, 74, 75, 78, 79, 80, 83, 84, 85, 88, 89, 90, 91, 92, 93, 94, 96, 97, 100, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 119, 120, 121, 122, 123, 124, 127, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 159, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200}
+Best Fitness: 5449
+Objective Function Evaluations (al best): 12545
+Tempo totale (sec): 830.57
+Iterazioni/sec: 1.20
+

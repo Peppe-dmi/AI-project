@@ -1,0 +1,27 @@
+2025-02-26 17:45:32,544 - INFO - Run 1/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:45:57,326 - INFO - Run 1: Best Fitness = 211, Eval Count = 557, Tempo totale = 24.78 sec, Iter/sec = 40.36
+2025-02-26 17:45:57,326 - INFO - Run 2/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:46:22,595 - INFO - Run 2: Best Fitness = 211, Eval Count = 390, Tempo totale = 25.27 sec, Iter/sec = 39.58
+2025-02-26 17:46:22,595 - INFO - Run 3/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:46:46,230 - INFO - Run 3: Best Fitness = 211, Eval Count = 964, Tempo totale = 23.63 sec, Iter/sec = 42.31
+2025-02-26 17:46:46,230 - INFO - Run 4/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:47:09,721 - INFO - Run 4: Best Fitness = 211, Eval Count = 545, Tempo totale = 23.49 sec, Iter/sec = 42.57
+2025-02-26 17:47:09,724 - INFO - Run 5/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:47:32,399 - INFO - Run 5: Best Fitness = 211, Eval Count = 422, Tempo totale = 22.67 sec, Iter/sec = 44.10
+2025-02-26 17:47:32,400 - INFO - Run 6/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:47:54,346 - INFO - Run 6: Best Fitness = 211, Eval Count = 505, Tempo totale = 21.95 sec, Iter/sec = 45.57
+2025-02-26 17:47:54,347 - INFO - Run 7/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:48:16,567 - INFO - Run 7: Best Fitness = 211, Eval Count = 499, Tempo totale = 22.22 sec, Iter/sec = 45.01
+2025-02-26 17:48:16,568 - INFO - Run 8/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:48:38,944 - INFO - Run 8: Best Fitness = 211, Eval Count = 880, Tempo totale = 22.38 sec, Iter/sec = 44.69
+2025-02-26 17:48:38,945 - INFO - Run 9/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:49:01,165 - INFO - Run 9: Best Fitness = 211, Eval Count = 731, Tempo totale = 22.22 sec, Iter/sec = 45.01
+2025-02-26 17:49:01,165 - INFO - Run 10/10 per istanza Grid_5_5_115_0_0_10_50
+2025-02-26 17:49:22,748 - INFO - Run 10: Best Fitness = 211, Eval Count = 506, Tempo totale = 21.58 sec, Iter/sec = 46.33
+2025-02-26 17:49:22,877 - INFO - === Risultati Finali per Grid_5_5_115_0_0_10_50 ===
+Best Solution: {19, 5, 6, 22, 8, 12, 15}
+Best Fitness: 211
+Objective Function Evaluations (al best): 390
+Tempo totale (sec): 25.27
+Iterazioni/sec: 39.58
+

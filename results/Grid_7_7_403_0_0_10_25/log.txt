@@ -1,0 +1,27 @@
+2025-02-26 18:00:16,962 - INFO - Run 1/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:00:43,180 - INFO - Run 1: Best Fitness = 254, Eval Count = 2546, Tempo totale = 26.22 sec, Iter/sec = 38.14
+2025-02-26 18:00:43,180 - INFO - Run 2/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:01:09,762 - INFO - Run 2: Best Fitness = 254, Eval Count = 2717, Tempo totale = 26.58 sec, Iter/sec = 37.62
+2025-02-26 18:01:09,762 - INFO - Run 3/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:01:44,394 - INFO - Run 3: Best Fitness = 254, Eval Count = 3654, Tempo totale = 34.63 sec, Iter/sec = 28.88
+2025-02-26 18:01:44,394 - INFO - Run 4/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:02:13,427 - INFO - Run 4: Best Fitness = 254, Eval Count = 2493, Tempo totale = 29.03 sec, Iter/sec = 34.45
+2025-02-26 18:02:13,430 - INFO - Run 5/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:02:38,901 - INFO - Run 5: Best Fitness = 254, Eval Count = 9930, Tempo totale = 25.47 sec, Iter/sec = 39.26
+2025-02-26 18:02:38,901 - INFO - Run 6/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:03:10,446 - INFO - Run 6: Best Fitness = 254, Eval Count = 4092, Tempo totale = 31.54 sec, Iter/sec = 31.70
+2025-02-26 18:03:10,446 - INFO - Run 7/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:03:37,300 - INFO - Run 7: Best Fitness = 254, Eval Count = 8044, Tempo totale = 26.85 sec, Iter/sec = 37.24
+2025-02-26 18:03:37,300 - INFO - Run 8/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:04:02,965 - INFO - Run 8: Best Fitness = 254, Eval Count = 2507, Tempo totale = 25.66 sec, Iter/sec = 38.96
+2025-02-26 18:04:02,965 - INFO - Run 9/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:04:28,537 - INFO - Run 9: Best Fitness = 263, Eval Count = 2739, Tempo totale = 25.57 sec, Iter/sec = 39.11
+2025-02-26 18:04:28,537 - INFO - Run 10/10 per istanza Grid_7_7_403_0_0_10_25
+2025-02-26 18:04:55,466 - INFO - Run 10: Best Fitness = 262, Eval Count = 5355, Tempo totale = 26.93 sec, Iter/sec = 37.13
+2025-02-26 18:04:55,536 - INFO - === Risultati Finali per Grid_7_7_403_0_0_10_25 ===
+Best Solution: {32, 34, 36, 38, 7, 40, 9, 11, 13, 17, 49, 19, 23, 28}
+Best Fitness: 254
+Objective Function Evaluations (al best): 2493
+Tempo totale (sec): 29.03
+Iterazioni/sec: 34.45
+
